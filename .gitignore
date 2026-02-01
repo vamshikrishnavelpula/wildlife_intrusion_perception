@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# YOLO outputs
+runs/
+
+# Datasets (too large)
+dataset/
+
+# Logs & media
+*.log
+*.wav
+
+# Model weights
+*.pt
+*.onnx
+
